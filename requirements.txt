@@ -14,6 +14,8 @@ jupyterlab-language-pack-cs-CZ
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
+# JupyterLab: Geojson file renderer (optional)
+jupyterlab-geojson>=3.4.0,<4
 # JupyterLab: dark theme
 jupyterlab-night
 
