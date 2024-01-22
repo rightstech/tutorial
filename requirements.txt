@@ -31,6 +31,7 @@ ipycanvas>=0.9.1
 ipyleaflet
 
 seaborn
+statsmodels
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
