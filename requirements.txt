@@ -32,6 +32,7 @@ ipyleaflet
 
 seaborn
 statsmodels
+jupyter_contrib_nbextensions
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
