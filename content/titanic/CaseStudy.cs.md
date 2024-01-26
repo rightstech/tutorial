@@ -141,7 +141,7 @@ plt.show()
 #počet přeživších
 f,ax=plt.subplots(figsize=(5,5))
 survivd_counts = df_titanic.Survived.value_counts()
-přežil_počet.plot.bar(ax=ax)
+survivd_counts.plot.bar(ax=ax)
 ax.set_title('Zahynulí vs. přežili')
 plt.show()
 #Procento přeživších
@@ -195,7 +195,7 @@ Histogram lze udělat několika způsoby. Ukážeme si 3 způsoby.
 - pd.Sereis.hist(): nejjednodušší a standardně zvládne NaN
 ##### Úkol 10: Vykreslete histogram pro věk
 Použijte funkci pandas Series hist(), která zpracovává chybějící hodnotu.
-#use dataframe hist(), který bude standardně zpracovávat NaN
+# použít dataframe hist(), který bude standardně zpracovávat NaN
 obr, ax = plt.subplots()
 df_titanic.Age.hist(ax=ax, bins=20, edgecolor='black', alpha=0.5)
 ##### Úkol 11: Naskládejte věkový histogram přežitých na vrchol celkového věkového histogramu
@@ -220,7 +220,7 @@ Předvedeme si plnění průměrem/režimem a odhadem z dalších sloupců.
 #### Vyplňte průměrem/režimem
 Embarked má pouze 2 chybějící hodnoty a neexistuje žádný zřejmý způsob, jak odhadnout chybějící hodnotu, jednoduše ji doplníme režimem sloupce nebo 'S'
 ##### Úkol 12: Doplňte chybějící Nastoupili jste s režimem
-#fill NaN v režimu Embarked with
+# fill NaN v režimu Embarked with
 df_titanic['Embarked'].fillna(df_titanic.Embarked.mode()[0],inplace=True)
 df_titanic.info()
 #### Vyplňte odhadovanou hodnotou
@@ -232,7 +232,7 @@ Pokud se podíváme na všechna jména cestujících Titaniku, vidíme, že jmé
 - Nejprve použijeme regulární výraz k extrahování názvu z názvu.
 - Poté převedeme název na velká písmena.
 - Chybějící věk pak doplníme průměrným věkem konkrétního titulu.
-#extrahujte předponu z názvu
+# extrahujte předponu z názvu
 df_titanic['Title']=df_titanic.Name.str.extract('([A-Za-z]+\.)')
 df_titanic.head()
 ##### Úkol 13: převeďte počáteční písmena na velká písmena.
