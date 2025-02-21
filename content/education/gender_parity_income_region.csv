@@ -1,0 +1,409 @@
+region_or_income,id,ind_id,level,value,year
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,,1990
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,,1991
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,,1992
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.4353,1993
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.4837,1994
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.5143,1995
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.4734,1996
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.5234,1997
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.6429,1998
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.703,1999
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.723,2000
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.7208,2001
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.7427,2002
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.7979,2003
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.7911,2004
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8044,2005
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8124,2006
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8322,2007
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8445,2008
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8645,2009
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8884,2010
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8859,2011
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.8789,2012
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9152,2013
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9368,2014
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9336,2015
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9382,2016
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9378,2017
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9466,2018
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9597,2019
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.933,2020
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9036,2021
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9484,2022
+region,Central and Southern Asia,GER.3.GPIA,upper secondary,0.9693,2023
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,,1990
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,,1991
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,,1992
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,,1993
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.848,1994
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.8965,1995
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9078,1996
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.8986,1997
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9308,1998
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9641,1999
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9638,2000
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9623,2001
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9448,2002
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9477,2003
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9778,2004
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.005,2005
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0224,2006
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0288,2007
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.033,2008
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0428,2009
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,0.9941,2010
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0066,2011
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.019,2012
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0137,2013
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0252,2014
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0318,2015
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0463,2016
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0455,2017
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0468,2018
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0414,2019
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0351,2020
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0298,2021
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.03,2022
+region,Eastern and South-eastern Asia,GER.3.GPIA,upper secondary,1.0279,2023
+region,Europe and Northern America,GER.3.GPIA,upper secondary,,1990
+region,Europe and Northern America,GER.3.GPIA,upper secondary,,1991
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0449,1992
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0331,1993
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0285,1994
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.038,1995
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0342,1996
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0383,1997
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0494,1998
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0411,1999
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.026,2000
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0243,2001
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0204,2002
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0149,2003
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0088,2004
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.019,2005
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0023,2006
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0028,2007
+region,Europe and Northern America,GER.3.GPIA,upper secondary,0.9983,2008
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0009,2009
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0009,2010
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0003,2011
+region,Europe and Northern America,GER.3.GPIA,upper secondary,0.999,2012
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0089,2013
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0083,2014
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0062,2015
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0149,2016
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0073,2017
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0029,2018
+region,Europe and Northern America,GER.3.GPIA,upper secondary,0.9939,2019
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0078,2020
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0169,2021
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0292,2022
+region,Europe and Northern America,GER.3.GPIA,upper secondary,1.0287,2023
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,,1990
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,,1991
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,,1992
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,,1993
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,,1994
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,,1995
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,,1996
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1513,1997
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1386,1998
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.133,1999
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1343,2000
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1306,2001
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1106,2002
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1156,2003
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1115,2004
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1144,2005
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.133,2006
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1316,2007
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1371,2008
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1386,2009
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1331,2010
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1292,2011
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1225,2012
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1059,2013
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1066,2014
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.0982,2015
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.0898,2016
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.0801,2017
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.0843,2018
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.0832,2019
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.0854,2020
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.1059,2021
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.095,2022
+region,Latin America and the Caribbean,GER.3.GPIA,upper secondary,1.0909,2023
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,,1990
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,,1991
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,,1992
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,,1993
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.786,1994
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8128,1995
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8247,1996
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8422,1997
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8642,1998
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8739,1999
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8934,2000
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8788,2001
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9035,2002
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.8837,2003
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9145,2004
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9551,2005
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9619,2006
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9578,2007
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9694,2008
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9723,2009
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9687,2010
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9889,2011
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9926,2012
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9821,2013
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9788,2014
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9859,2015
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9859,2016
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9756,2017
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9946,2018
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9889,2019
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9941,2020
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9958,2021
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,0.9943,2022
+region,Northern Africa and Western Asia,GER.3.GPIA,upper secondary,1.0006,2023
+region,Oceania,GER.3.GPIA,upper secondary,,1990
+region,Oceania,GER.3.GPIA,upper secondary,,1991
+region,Oceania,GER.3.GPIA,upper secondary,0.9979,1992
+region,Oceania,GER.3.GPIA,upper secondary,0.9903,1993
+region,Oceania,GER.3.GPIA,upper secondary,1.0037,1994
+region,Oceania,GER.3.GPIA,upper secondary,0.997,1995
+region,Oceania,GER.3.GPIA,upper secondary,1.009,1996
+region,Oceania,GER.3.GPIA,upper secondary,1.0262,1997
+region,Oceania,GER.3.GPIA,upper secondary,1.0174,1998
+region,Oceania,GER.3.GPIA,upper secondary,1.0063,1999
+region,Oceania,GER.3.GPIA,upper secondary,0.9962,2000
+region,Oceania,GER.3.GPIA,upper secondary,0.9914,2001
+region,Oceania,GER.3.GPIA,upper secondary,0.9872,2002
+region,Oceania,GER.3.GPIA,upper secondary,0.9814,2003
+region,Oceania,GER.3.GPIA,upper secondary,0.9642,2004
+region,Oceania,GER.3.GPIA,upper secondary,0.9584,2005
+region,Oceania,GER.3.GPIA,upper secondary,0.9517,2006
+region,Oceania,GER.3.GPIA,upper secondary,0.9373,2007
+region,Oceania,GER.3.GPIA,upper secondary,0.9384,2008
+region,Oceania,GER.3.GPIA,upper secondary,0.9325,2009
+region,Oceania,GER.3.GPIA,upper secondary,0.9293,2010
+region,Oceania,GER.3.GPIA,upper secondary,0.9251,2011
+region,Oceania,GER.3.GPIA,upper secondary,0.9185,2012
+region,Oceania,GER.3.GPIA,upper secondary,0.9147,2013
+region,Oceania,GER.3.GPIA,upper secondary,0.9069,2014
+region,Oceania,GER.3.GPIA,upper secondary,0.9004,2015
+region,Oceania,GER.3.GPIA,upper secondary,0.899,2016
+region,Oceania,GER.3.GPIA,upper secondary,0.9363,2017
+region,Oceania,GER.3.GPIA,upper secondary,1.0017,2018
+region,Oceania,GER.3.GPIA,upper secondary,0.9721,2019
+region,Oceania,GER.3.GPIA,upper secondary,1.0012,2020
+region,Oceania,GER.3.GPIA,upper secondary,0.9892,2021
+region,Oceania,GER.3.GPIA,upper secondary,0.9743,2022
+region,Oceania,GER.3.GPIA,upper secondary,0.9736,2023
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,1990
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,1991
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,1992
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,1993
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,1994
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,1995
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,1996
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7925,1997
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7974,1998
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8113,1999
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7995,2000
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.792,2001
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7652,2002
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7927,2003
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7731,2004
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7727,2005
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7708,2006
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.758,2007
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7685,2008
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7793,2009
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7807,2010
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7793,2011
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.7973,2012
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8143,2013
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8188,2014
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8109,2015
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8308,2016
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8377,2017
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8416,2018
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8535,2019
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8701,2020
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8789,2021
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,0.8839,2022
+region,Sub-Saharan Africa,GER.3.GPIA,upper secondary,,2023
+region,World,GER.3.GPIA,upper secondary,,1990
+region,World,GER.3.GPIA,upper secondary,,1991
+region,World,GER.3.GPIA,upper secondary,,1992
+region,World,GER.3.GPIA,upper secondary,0.7653,1993
+region,World,GER.3.GPIA,upper secondary,0.8047,1994
+region,World,GER.3.GPIA,upper secondary,0.8281,1995
+region,World,GER.3.GPIA,upper secondary,0.8287,1996
+region,World,GER.3.GPIA,upper secondary,0.84,1997
+region,World,GER.3.GPIA,upper secondary,0.8798,1998
+region,World,GER.3.GPIA,upper secondary,0.9046,1999
+region,World,GER.3.GPIA,upper secondary,0.9039,2000
+region,World,GER.3.GPIA,upper secondary,0.9011,2001
+region,World,GER.3.GPIA,upper secondary,0.9095,2002
+region,World,GER.3.GPIA,upper secondary,0.9241,2003
+region,World,GER.3.GPIA,upper secondary,0.9289,2004
+region,World,GER.3.GPIA,upper secondary,0.9445,2005
+region,World,GER.3.GPIA,upper secondary,0.9453,2006
+region,World,GER.3.GPIA,upper secondary,0.9543,2007
+region,World,GER.3.GPIA,upper secondary,0.9566,2008
+region,World,GER.3.GPIA,upper secondary,0.9659,2009
+region,World,GER.3.GPIA,upper secondary,0.9565,2010
+region,World,GER.3.GPIA,upper secondary,0.9579,2011
+region,World,GER.3.GPIA,upper secondary,0.9569,2012
+region,World,GER.3.GPIA,upper secondary,0.9682,2013
+region,World,GER.3.GPIA,upper secondary,0.9771,2014
+region,World,GER.3.GPIA,upper secondary,0.9754,2015
+region,World,GER.3.GPIA,upper secondary,0.982,2016
+region,World,GER.3.GPIA,upper secondary,0.9797,2017
+region,World,GER.3.GPIA,upper secondary,0.9842,2018
+region,World,GER.3.GPIA,upper secondary,0.9853,2019
+region,World,GER.3.GPIA,upper secondary,0.9773,2020
+region,World,GER.3.GPIA,upper secondary,0.9684,2021
+region,World,GER.3.GPIA,upper secondary,0.9853,2022
+region,World,GER.3.GPIA,upper secondary,0.9926,2023
+region,High income,GER.3.GPIA,upper secondary,,1990
+region,High income,GER.3.GPIA,upper secondary,,1991
+region,High income,GER.3.GPIA,upper secondary,1.0262,1992
+region,High income,GER.3.GPIA,upper secondary,1.0183,1993
+region,High income,GER.3.GPIA,upper secondary,1.0142,1994
+region,High income,GER.3.GPIA,upper secondary,1.025,1995
+region,High income,GER.3.GPIA,upper secondary,1.0235,1996
+region,High income,GER.3.GPIA,upper secondary,1.0293,1997
+region,High income,GER.3.GPIA,upper secondary,1.0389,1998
+region,High income,GER.3.GPIA,upper secondary,1.0313,1999
+region,High income,GER.3.GPIA,upper secondary,1.0216,2000
+region,High income,GER.3.GPIA,upper secondary,1.0219,2001
+region,High income,GER.3.GPIA,upper secondary,1.0171,2002
+region,High income,GER.3.GPIA,upper secondary,1.0129,2003
+region,High income,GER.3.GPIA,upper secondary,1.0089,2004
+region,High income,GER.3.GPIA,upper secondary,1.0172,2005
+region,High income,GER.3.GPIA,upper secondary,1.0032,2006
+region,High income,GER.3.GPIA,upper secondary,1.0011,2007
+region,High income,GER.3.GPIA,upper secondary,0.9999,2008
+region,High income,GER.3.GPIA,upper secondary,1.0005,2009
+region,High income,GER.3.GPIA,upper secondary,0.9998,2010
+region,High income,GER.3.GPIA,upper secondary,1.0103,2011
+region,High income,GER.3.GPIA,upper secondary,1.0058,2012
+region,High income,GER.3.GPIA,upper secondary,1.0099,2013
+region,High income,GER.3.GPIA,upper secondary,1.0072,2014
+region,High income,GER.3.GPIA,upper secondary,1.0044,2015
+region,High income,GER.3.GPIA,upper secondary,1.0126,2016
+region,High income,GER.3.GPIA,upper secondary,1.0074,2017
+region,High income,GER.3.GPIA,upper secondary,1.0054,2018
+region,High income,GER.3.GPIA,upper secondary,0.9964,2019
+region,High income,GER.3.GPIA,upper secondary,1.0086,2020
+region,High income,GER.3.GPIA,upper secondary,1.0151,2021
+region,High income,GER.3.GPIA,upper secondary,1.0253,2022
+region,High income,GER.3.GPIA,upper secondary,1.0245,2023
+region,Low income,GER.3.GPIA,upper secondary,,1990
+region,Low income,GER.3.GPIA,upper secondary,,1991
+region,Low income,GER.3.GPIA,upper secondary,,1992
+region,Low income,GER.3.GPIA,upper secondary,,1993
+region,Low income,GER.3.GPIA,upper secondary,,1994
+region,Low income,GER.3.GPIA,upper secondary,,1995
+region,Low income,GER.3.GPIA,upper secondary,,1996
+region,Low income,GER.3.GPIA,upper secondary,0.6999,1997
+region,Low income,GER.3.GPIA,upper secondary,0.675,1998
+region,Low income,GER.3.GPIA,upper secondary,0.6677,1999
+region,Low income,GER.3.GPIA,upper secondary,0.6655,2000
+region,Low income,GER.3.GPIA,upper secondary,0.6673,2001
+region,Low income,GER.3.GPIA,upper secondary,0.6847,2002
+region,Low income,GER.3.GPIA,upper secondary,0.6818,2003
+region,Low income,GER.3.GPIA,upper secondary,0.6753,2004
+region,Low income,GER.3.GPIA,upper secondary,0.6788,2005
+region,Low income,GER.3.GPIA,upper secondary,0.6715,2006
+region,Low income,GER.3.GPIA,upper secondary,0.6812,2007
+region,Low income,GER.3.GPIA,upper secondary,0.6811,2008
+region,Low income,GER.3.GPIA,upper secondary,0.6828,2009
+region,Low income,GER.3.GPIA,upper secondary,0.6914,2010
+region,Low income,GER.3.GPIA,upper secondary,0.7101,2011
+region,Low income,GER.3.GPIA,upper secondary,0.7262,2012
+region,Low income,GER.3.GPIA,upper secondary,0.7412,2013
+region,Low income,GER.3.GPIA,upper secondary,0.746,2014
+region,Low income,GER.3.GPIA,upper secondary,0.7762,2015
+region,Low income,GER.3.GPIA,upper secondary,0.7834,2016
+region,Low income,GER.3.GPIA,upper secondary,0.7895,2017
+region,Low income,GER.3.GPIA,upper secondary,0.7931,2018
+region,Low income,GER.3.GPIA,upper secondary,0.7909,2019
+region,Low income,GER.3.GPIA,upper secondary,0.7925,2020
+region,Low income,GER.3.GPIA,upper secondary,0.7958,2021
+region,Low income,GER.3.GPIA,upper secondary,,2022
+region,Low income,GER.3.GPIA,upper secondary,,2023
+region,Lower middle income,GER.3.GPIA,upper secondary,,1990
+region,Lower middle income,GER.3.GPIA,upper secondary,,1991
+region,Lower middle income,GER.3.GPIA,upper secondary,,1992
+region,Lower middle income,GER.3.GPIA,upper secondary,0.4738,1993
+region,Lower middle income,GER.3.GPIA,upper secondary,0.5184,1994
+region,Lower middle income,GER.3.GPIA,upper secondary,0.5476,1995
+region,Lower middle income,GER.3.GPIA,upper secondary,0.5165,1996
+region,Lower middle income,GER.3.GPIA,upper secondary,0.5575,1997
+region,Lower middle income,GER.3.GPIA,upper secondary,0.6672,1998
+region,Lower middle income,GER.3.GPIA,upper secondary,0.7236,1999
+region,Lower middle income,GER.3.GPIA,upper secondary,0.7377,2000
+region,Lower middle income,GER.3.GPIA,upper secondary,0.734,2001
+region,Lower middle income,GER.3.GPIA,upper secondary,0.7497,2002
+region,Lower middle income,GER.3.GPIA,upper secondary,0.8003,2003
+region,Lower middle income,GER.3.GPIA,upper secondary,0.7904,2004
+region,Lower middle income,GER.3.GPIA,upper secondary,0.8038,2005
+region,Lower middle income,GER.3.GPIA,upper secondary,0.812,2006
+region,Lower middle income,GER.3.GPIA,upper secondary,0.8207,2007
+region,Lower middle income,GER.3.GPIA,upper secondary,0.8384,2008
+region,Lower middle income,GER.3.GPIA,upper secondary,0.8622,2009
+region,Lower middle income,GER.3.GPIA,upper secondary,0.8801,2010
+region,Lower middle income,GER.3.GPIA,upper secondary,0.882,2011
+region,Lower middle income,GER.3.GPIA,upper secondary,0.8777,2012
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9079,2013
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9263,2014
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9243,2015
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9284,2016
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9302,2017
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9431,2018
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9568,2019
+region,Lower middle income,GER.3.GPIA,upper secondary,0.937,2020
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9139,2021
+region,Lower middle income,GER.3.GPIA,upper secondary,0.952,2022
+region,Lower middle income,GER.3.GPIA,upper secondary,0.9703,2023
+region,Upper middle income,GER.3.GPIA,upper secondary,,1990
+region,Upper middle income,GER.3.GPIA,upper secondary,,1991
+region,Upper middle income,GER.3.GPIA,upper secondary,,1992
+region,Upper middle income,GER.3.GPIA,upper secondary,,1993
+region,Upper middle income,GER.3.GPIA,upper secondary,0.8852,1994
+region,Upper middle income,GER.3.GPIA,upper secondary,0.9243,1995
+region,Upper middle income,GER.3.GPIA,upper secondary,0.937,1996
+region,Upper middle income,GER.3.GPIA,upper secondary,0.9445,1997
+region,Upper middle income,GER.3.GPIA,upper secondary,0.9657,1998
+region,Upper middle income,GER.3.GPIA,upper secondary,0.9903,1999
+region,Upper middle income,GER.3.GPIA,upper secondary,0.9938,2000
+region,Upper middle income,GER.3.GPIA,upper secondary,0.99,2001
+region,Upper middle income,GER.3.GPIA,upper secondary,0.9928,2002
+region,Upper middle income,GER.3.GPIA,upper secondary,0.9915,2003
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0191,2004
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0428,2005
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0533,2006
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0645,2007
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0646,2008
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0685,2009
+region,Upper middle income,GER.3.GPIA,upper secondary,1.035,2010
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0376,2011
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0472,2012
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0393,2013
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0493,2014
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0474,2015
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0606,2016
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0551,2017
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0577,2018
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0522,2019
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0505,2020
+region,Upper middle income,GER.3.GPIA,upper secondary,1.053,2021
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0474,2022
+region,Upper middle income,GER.3.GPIA,upper secondary,1.0451,2023
